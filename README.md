@@ -5,4 +5,4 @@ Je recommande ce projet à tout programmeur débutant pour revoir ce projet.
 D'autant plus que je l'ai réalisé de deux manières : 
 » Curses 
 » Turtle 
-Au final, je te souhaite du succès 💪🏻🤍
+Au final, je te souhaite du succès 💪🏻🤍.
