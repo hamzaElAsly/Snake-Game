@@ -94,6 +94,7 @@ while True:
         delay = 0.1
         pen.clear()
         pen.write("Score: {}  High Score: {}".format(score, high_score),font=("Courier", 20, "normal")) 
+   
     # فحص اصطدام الثعبان مع نفسه
     for segment in snake:
         if segment.distance(head) < 20:
